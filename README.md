@@ -1,5 +1,4 @@
-# Python
-Programming Practice
+
 welcome to my Python Practice programs repository!
 
 This repository contains a collection of Python programs that I've practiced from the beginning stages of learning Python.
